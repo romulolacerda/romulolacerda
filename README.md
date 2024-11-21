@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Romulo Amorim! 👋
 
-<!--
-**romulolacerda/romulolacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with 8 years of experience, currently focused on:
 
-Here are some ideas to get you started:
+- Developing web systems and applications.
+- Modernizing legacy systems.
+- Data integration using cloud services like AWS and Azure.
+- Software testing (manual and automated).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Certifications
+- Microsoft Azure Fundamentals (AZ-900)
+- AWS Certified Cloud Practitioner
+- CTFL Certified Tester Foundation Level
+
+## 📚 Tools and Technologies
+- Angular, Python, FastAPI, PySpark, Pandas, MySQL
+- Agile methodologies (Scrum and Kanban)
+- Automated testing (Selenium, Cucumber, etc.)
+
+## 🚀 Recent Projects
+- **Condomínio Conectado**: An app connecting people within condominiums for buying and selling goods and services.
+
+### 🌍 Get in Touch!
+[LinkedIn](https://linkedin.com/in/romulo-lacerda-060163122) | [Email](romulolacerda9@gmail.com) | [X](https://x.com/romulolacerda9)
