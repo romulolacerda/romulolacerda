@@ -1,4 +1,4 @@
-# Hi, I'm Romulo Amorim! 👋
+# Hi, I'm Romulo Lacerda! 👋
 
 I'm a software engineer with 8 years of experience, currently focused on:
 
