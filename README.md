@@ -21,6 +21,6 @@ I'm a software engineer with 8 years of experience, currently focused on:
 - **Condomínio Conectado**: An app connecting people within condominiums for buying and selling goods and services.
 
 ### 🌍 Get in Touch!
-[LinkedIn](https://linkedin.com/in/romulo-lacerda-060163122) | [Email](romulolacerda9@gmail.com) | [X](https://x.com/romulolacerda9)
-[![X](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/AluisioDev/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aluisio-amorim-b19a701ba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-twitter-handle)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
