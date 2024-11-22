@@ -18,7 +18,7 @@ I'm a software engineer with 8 years of experience, currently focused on:
 - Automated testing (Selenium, Cucumber, etc.)
 
 ## 🚀 Recent Projects
-- **Condomínio Conectado**: An app connecting people within condominiums for buying and selling goods and services.
+- **[![Condomínio Conectado](https://github.com/terceiro-setor-opensource/mba-es-27-grupo-07-front)]**: An app connecting people within condominiums for buying and selling goods and services.
 
 ### 🌍 Get in Touch!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/romulo-lacerda-060163122) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-twitter-handle)
